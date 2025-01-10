@@ -5,8 +5,6 @@
   align-items: center;
   padding: 92px 50px 96px;
 }
-.header__menu {
-}
 .header__links-list {
   display: flex;
   gap: 32px;
@@ -29,8 +27,6 @@
 .header__logo {
   width: 138px;
   height: 105px;
-}
-.header__logo-image {
 }
 .address {
   justify-self: end;
@@ -207,8 +203,6 @@
   width: 148px;
   height: 114px;
 }
-.about__column {
-}
 .about__title {
   margin-top: 136px;
   font-weight: 700;
@@ -256,8 +250,6 @@
   text-align: center;
   text-underline-offset: 4px;
 }
-.footer__menu-link {
-}
 .footer__menu-link_active {
   text-decoration: none;
 }
@@ -272,8 +264,4 @@
 .footer__social-list-item {
   width: 48px;
   height: 48px;
-}
-.footer__social-link {
-}
-.footer__social-icon {
 }
