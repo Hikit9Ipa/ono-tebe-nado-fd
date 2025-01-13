@@ -41,8 +41,8 @@
   z-index: 0;
   background-image: url("../images/cover.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center;
+  background-size: cover;
 }
 .overlay {
   position: absolute;
@@ -66,8 +66,8 @@
   display: block;
 }
 .aligned-text_center {
-  line-height: 155px;
   margin-left: 30px;
+  line-height: 155px;
   text-align: center;
 }
 .aligned-text_right {
@@ -118,9 +118,9 @@
 }
 .lots__card-list {
   display: flex;
+  flex-wrap: wrap;
   gap: 25px;
   list-style: none;
-  flex-wrap: wrap;
 }
 .lots__card-list-item {
   width: 334px;
@@ -211,8 +211,8 @@
   margin-top: 100px;
   font-weight: 400;
   font-size: 20px;
-  line-height: 24px;
   font-style: normal;
+  line-height: 24px;
 }
 .about__text-item {
   margin-bottom: 24px;
