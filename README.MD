@@ -1,1 +1,0 @@
-https://github.com/Hikit9Ipa/ono-tebe-nado-fd
